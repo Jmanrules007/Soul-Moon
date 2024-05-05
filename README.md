@@ -28,4 +28,8 @@ Jon
 
 #### Former
 
+- Ammit
+- Dread
+- Odalis
 - Solandyr
+- Walter Pilshimac
