@@ -4,6 +4,10 @@ The Soul Moon is a 5e homebrew setting featuring a flooded world beset upon by d
 
 ## Resources
 
+### Organizations
+
+- [The Pirates](organizations/pirates.md)
+
 ### Artifacts
 
 - [Champion Relics](artifacts/champion-relics.md)
