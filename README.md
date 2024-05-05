@@ -2,6 +2,12 @@
 
 The Soul Moon is a 5e homebrew setting featuring a flooded world beset upon by devils.
 
+## Resources
+
+### Artifacts
+
+- [Champion Relics](artifacts/champion-relics.md)
+
 ## Credits
 
 ### DM
