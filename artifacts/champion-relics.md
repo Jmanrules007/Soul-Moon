@@ -1,6 +1,6 @@
 # Champion Relics
 
-The Champion Relics are a series of powerful magical artifacts imbued with the spirits of great warriors who once protected the Soul Moon from an incursion of fiends. The items await new champions to take up arms against future threats, so that the original warriors can impart their power and wisdom to the next generation of protectors.
+The **Champion Relics** are a series of powerful magical artifacts imbued with the spirits of great warriors who once protected the Soul Moon from an incursion of fiends. The items await new champions to take up arms against future threats, so that the original warriors can impart their power and wisdom to the next generation of protectors.
 
 ## Silent Singer
 

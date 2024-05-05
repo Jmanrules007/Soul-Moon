@@ -18,7 +18,6 @@ Jon
 
 #### Current
 
-- Ammit
 - Chases the Stars Across the Tumultuous Seas
 - Isari Plainleaf
 - Kalden Noël
