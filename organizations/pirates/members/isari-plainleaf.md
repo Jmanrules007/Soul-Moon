@@ -10,7 +10,4 @@
 - title: Pirate Lord (representing the crew of the [Friend Ship III](../fleet/friend-ship.md))
 - classes: Bard (College of Glamour), Warlock (Friendship Patron)
 
-<figure>
-  <img src="isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
-  <figcaption>Isari Plainleaf by <a href="https://kaiotisk.tumblr.com">kaiotisk</a></figcaption>
-</figure>
+  <img align="left" width="500" src="isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
