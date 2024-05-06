@@ -17,10 +17,10 @@
 
 ### Ship crews
 
-#### Friend Ship III
+#### [Friend Ship III](fleet/friend-ship.md)
 
 - Chases the Stars Across the Tumultuous Seas
-- Isari Plainleaf
+- [Isari Plainleaf](members/isari-plainleaf.md)
 - Kalden Noël
 - Relkul
 - Serys Faerryn

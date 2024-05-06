@@ -6,7 +6,7 @@ The Soul Moon is a 5e homebrew setting featuring a flooded world beset upon by d
 
 ### Organizations
 
-- [The Pirates](organizations/pirates.md)
+- [The Pirates](organizations/pirates/pirates.md)
 
 ### Artifacts
 
@@ -23,7 +23,7 @@ Jon
 #### Current
 
 - Chases the Stars Across the Tumultuous Seas
-- Isari Plainleaf
+- [Isari Plainleaf](organizations/pirates/members/isari-plainleaf.md)
 - Kalden Noël
 - Relkul
 - Serys Faerryn
