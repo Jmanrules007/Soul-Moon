@@ -32,7 +32,7 @@ Isari is the common-man's no-body, called to adventure the seas from her home no
 
 `Art depicts Calda Plainleaf and Isari as a child, drawn by myself (Tea)`
 
-  <img align="left" width="300" src="images/caldaplainleaf-haru.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
+  <img align="left" width="300" src="images/caldaplainleaf-haru.png" alt="Drawing of a warm-skinned short and chubby woman with long brown hair and a dress, beside a blue-skinned child with a yellow dress and blue hair." />
 
 Isari Plainleaf was born and raised in Northpoint, a small port and the only town on an un-named Island to the west, it's only resounding feature being its proximity to the Adamantine Reef. Ironically, despite its name, the town was actually situated at the south end of the island. Her mother was a warm Halfling woman, Calda Plainleaf, Northpoint's resident and well respected seamstress, and her father was unknown - she never felt any need to go out of her way to learm much about him, only that he was a good man, surrounded as she was by years of trinkets and memories her mother had brought with her from her youth when she'd settled in Northpoint, as well as the small but energetic environment of the town.
 
@@ -50,4 +50,16 @@ And so our future pirate captain did just that, giving her tearful goodbyes befo
 
 ## A New Friend-ship
 
-  <img align="right" width="300" src="images/isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
+  <img align="right" width="300" src="images/earlyisari-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing." />
+
+## A Jaunt in the Hell's
+
+  <img align="left" width="300" src="images/thedutiful-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing but a bit crazy this time." />
+
+## Insecurity
+
+  <img align="right" width="300" src="images/genie-haru.png" alt="Drawing of a feminine person with blue skin wearing genie inspired clothing." />
+
+## Current
+
+  <img align="left" width="300" src="images/isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
