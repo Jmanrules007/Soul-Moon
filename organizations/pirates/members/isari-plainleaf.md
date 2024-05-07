@@ -48,4 +48,6 @@ Once she'd finished, Calda took Isari's hands gently in hers, and told her; "I r
 
 And so our future pirate captain did just that, giving her tearful goodbyes before hitching a ride on a sailor's ship a week later, headed towards Portmagne Island, where she'd begin to make herself a name within sailing communities and pirates both as a hitchhiker, and where, after a year, would find herself in possession of an invite to a certain Pirate Lord's banquet.
 
+## A New Friend-ship
+
   <img align="right" width="300" src="images/isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
