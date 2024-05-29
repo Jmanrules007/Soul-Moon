@@ -19,9 +19,9 @@
 
 #### [Friend Ship III](fleet/friend-ship.md)
 
-- Chases the Stars Across the Tumultuous Seas
-- [Isari Plainleaf](members/isari-plainleaf.md)
-- Kalden Noël
-- Relkul
-- Serys Faerryn
-- Veil Between Planes
+- [Chases the Stars Across the Tumultuous Seas](members/chases-the-stars-across-the-tumultuous-seas.md): co-captain
+- [Isari Plainleaf](members/isari-plainleaf.md): co-captain
+- [Kalden Noël](members/kalden-noel.md): helmsman
+- [Relkul Nerian](members/relkul-nerian.md)
+- [Serys Faerryn](members/serys-faerryn.md)
+- [Veil Between Planes](members/veil-between-planes.md)
