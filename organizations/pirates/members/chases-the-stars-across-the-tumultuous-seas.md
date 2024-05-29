@@ -13,7 +13,7 @@
 
 - titles: Captain
 - aliases: Chases the Butterflies Around the Steadfast Trees (childhood name), Chase (common nickname amongst non-tabaxi)
-- classes: monk (Warrior of the Astral Self / ranger (Beast Master)
+- classes: monk (Warrior of the Astral Self) / ranger (Beast Master)
 - pronouns: they/them
 - languages: Common, Draconic, Goblin, Infernal
 
