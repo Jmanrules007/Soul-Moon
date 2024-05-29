@@ -14,13 +14,14 @@
 - Lord Kroz
 - Lord Loudmouth the Mute
 - Lord Mead
+- the crew of the [Friend Ship III](fleet/friend-ship.md) (represented by [Isari Plainleaf](members/isari-plainleaf.md))
 
 ### Ship crews
 
 #### [Friend Ship III](fleet/friend-ship.md)
 
 - [Chases the Stars Across the Tumultuous Seas](members/chases-the-stars-across-the-tumultuous-seas.md): co-captain
-- [Isari Plainleaf](members/isari-plainleaf.md): co-captain
+- Isari Plainleaf: co-captain
 - [Kalden Noël](members/kalden-noel.md): helmsman
 - [Relkul Nerian](members/relkul-nerian.md)
 - [Serys Faerryn](members/serys-faerryn.md)
