@@ -20,7 +20,7 @@
 
 #### [Friend Ship III](fleet/friend-ship.md)
 
-- [Chases the Stars Across the Tumultuous Seas](members/chases-the-stars-across-the-tumultuous-seas.md): co-captain
+- [Chases the Stars Across the Tumultuous Seas](members/chases-the-stars-across-the-tumultuous-seas.md): co-captain, navigator
 - Isari Plainleaf: co-captain
 - [Kalden Noël](members/kalden-noel.md): helmsman
 - [Relkul Nerian](members/relkul-nerian.md)
