@@ -13,7 +13,8 @@
 
 ### Former
 
-- [Chases the Stars Across the Tumultuous Seas](../pirates/members/chases-the-stars-across-the-tumultous-seas.md)
+- [Chases the Stars Across the Tumultuous Seas](../pirates/members
+/chases-the-stars-across-the-tumultuous-seas.md)
 
 ## History
 
