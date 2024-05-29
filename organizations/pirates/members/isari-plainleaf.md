@@ -1,6 +1,6 @@
 # Isari Plainleaf
 
-**Isari Plainleaf** is the co-captain of the [Friend Ship III](../fleet/friend-ship.md).
+**Isari Plainleaf** is the co-captain of the [Friend Ship III](../fleet/friend-ship.md). She is the common-man's no-body, called to adventure the seas from her home north of Northpoint, and is currently an acting Pirate Lord representing the crew of the Friend Ship III. She previously served as a champion of the archdevil Zariel but has since severed ties.
 
 <figure>
   <img src="images/isari-r-mikky.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
@@ -35,10 +35,6 @@
 ### Friend Ship III
 
 - [Chases the Stars Across the Tumultous Seas](chase.md) (co-captain)
-
-## About
-
-Isari is the common-man's no-body, called to adventure the seas from her home north of Northpoint, and is currently an acting Pirate Lord and co-captain of the Friendship III, as well as previously a champion of the Arch-Devil Zariel.
 
 ## History
 
