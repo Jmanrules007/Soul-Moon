@@ -30,7 +30,7 @@
 
 ### [Steadfast Trees](../../steadfast-trees/steadfast-trees.md)
 
-- Gnarled Root Anchoring the Steadfast Trees Against the Churning Waves: village shaman
+- Gnarled Root Anchoring the Steadfast Trees Against the Churning Waves: tribe leader and shaman
 - Reeds in the Shallows, Sheltered by the Steadfast Trees: birth mother
 - Poison Quills, Healing in the Shade of the Steadfast Trees: childhood friend and rival
 - Walks Daily the Shores Embracing the Steadfast Trees: mentor
