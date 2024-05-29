@@ -2,6 +2,11 @@
 
 **Chases the Stars Across the Tumultuous Seas** is a co-captain of the [Friend Ship III](../fleet/friend-ship.md). They share a body with their astral self Syzygy.
 
+<figure>
+  <img src="images/chases-the-stars-mario-panighetti.jpg" alt="Drawing of a feline person with ocelot patterns on tawny fur and ears pointed upward, wearing a gray Wing Chun-style gi, a sash made from a cloak of displacement, and hand and foot wraps, holding a yklwa. They are staring sternly at the viewer. A blurry jungle scene forms the background." />
+  <figcaption>Chases the Stars by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
+</figure>
+
 ## Information
 
 ### Mental
@@ -56,6 +61,16 @@ The People of the Steadfast Trees were saddened by Chase's decision, but they al
 
 ### Astral Self
 
+<figure>
+  <img src="images/syzygy-mario-panighetti.jpg" alt="White outline of a feline person resembling chases-the-stars-mario-panighetti.jpg with ocelot patterns across their body and no clothing. They have a cheshire smile and are looking at the viewer. Their outline is surrounded with a purple glow. They float in front of a blurry image of a nebula." />
+  <figcaption>Syzygy by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
+</figure>
+
 ### Love Lost
 
 ### Current
+
+<figure>
+  <img src="images/chase-and-kitty-haru.png" alt="Three drawings of a feline person with spotted patterns on tawny fur and rounded ears, wearing a gray Wing Chun-style gi revealing their chest, dark trousers, and hand and foot wraps. Drawing descriptions left to right: the first and second drawing share similar poses, a relaxed stance with their body facing slightly left of the viewer; the first drawing has a neutral facial expression and the left hand is held upward with claws extended; the second drawing is smiling and the left hand is at their side; the third drawing depicts the figure's head and torso from behind, with their gi removed to show their back's spot patterns." />
+  <figcaption>Chase and Kitty by Haru</figcaption>
+</figure>
