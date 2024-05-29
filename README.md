@@ -20,20 +20,8 @@ Jon
 
 ### Party
 
-#### Current
-
-- Chases the Stars Across the Tumultuous Seas
-- [Isari Plainleaf](organizations/pirates/members/isari-plainleaf.md)
-- Kalden Noël
-- Relkul
-- Serys Faerryn
-- Veil Between Planes
-
-#### Former
-
-- Ammit
-- Dread
-- Kree'madyl
-- Odalis
-- Solandyr
-- Walter Pilshimac
+- Blake
+- Fawn
+- Haru
+- [Mario Panighetti](https://mario.panighetti.net)
+- Toaster
