@@ -25,16 +25,16 @@
 
 ### Family
 
-- Calda Plainleaf (Mother)
-- Jekesh the Dutiful/Rashid Seaskimmer (Father)
-- Ziyithai (Aunt)
-- Relkul (half-brother)
-- Ithai (Aunt)
-- Ezkix (Aunt)
+- Calda Plainleaf: Mother
+- Jekesh the Dutiful/Rashid Seaskimmer: Father
+- [Relkul Nerian](relkul-nerian.md): half-brother
+- Ziyithai: Aunt
+- Ithai: Aunt
+- Ezkix: Aunt
 
 ### Friend Ship III
 
-- [Chases the Stars Across the Tumultous Seas](chase.md) (co-captain)
+- [Chases the Stars Across the Tumultous Seas](chases-the-stars-across-the-tumultuous-seas.md) (co-captain)
 
 ## History
 
