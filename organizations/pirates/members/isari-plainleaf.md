@@ -1,19 +1,29 @@
 # Isari Plainleaf
 
+**Isari Plainleaf** is the co-captain of the [Friend Ship III](../fleet/friend-ship.md).
+
 <figure>
   <img src="images/isari-r-mikky.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
   <figcaption>Isari Plainleaf by <a href="https://linktr.ee/R.Mikky">R.Mikky</a></figcaption>
 </figure>
 
-## Attributes
+## Information
 
-- title: Pirate Lord (representing the crew of the [Friend Ship III](../fleet/friend-ship.md))
-- Race: Water Genasi, Halfling
-- classes: Bard (College of Glamour), Warlock (Friendship Patron)
+### Mental
+
+- titles: Captain, Pirate Lord (representing the crew of the (Friend Ship III)
+- classes: Bard (College of Glamour), Warlock ([Power of Friendship Patron](https://github.com/mpanighetti/dnd5e-classes/blob/main/warlock/power-of-friendship-patron.md))
 - Pronouns: She/Her
 - Languages: Common, Primordial
 
+### Physical
+
+- Race: Water Genasi, Halfling
+- Height: 4'4"
+
 ## Relationships
+
+### Family
 
 - Calda Plainleaf (Mother)
 - Jekesh the Dutiful/Rashid Seaskimmer (Father)
@@ -21,18 +31,22 @@
 - Relkul (half-brother)
 - Ithai (Aunt)
 - Ezkix (Aunt)
-- Chase's the Stars across the Tumultous Seas (Ex?)
-- The Friendship III (friends!)
+
+### Friend Ship III
+
+- [Chases the Stars Across the Tumultous Seas](chase.md) (co-captain)
 
 ## About
 
 Isari is the common-man's no-body, called to adventure the seas from her home north of Northpoint, and is currently an acting Pirate Lord and co-captain of the Friendship III, as well as previously a champion of the Arch-Devil Zariel.
 
-## Before the Seas
+## History
 
-`Art depicts Calda Plainleaf and Isari as a child, drawn by myself (Tea)`
+### Before the Seas (Childhood)
 
-  <img align="left" width="300" src="images/caldaplainleaf-haru.png" alt="Drawing of a warm-skinned short and chubby woman with long brown hair and a dress, beside a blue-skinned child with a yellow dress and blue hair." />
+**Calda Plainleaf and Isari as a Child** by Haru
+
+<img align="left" width="300" src="images/caldaplainleaf-haru.png" alt="Drawing of a warm-skinned short and chubby woman with long brown hair and a dress, beside a blue-skinned child with a yellow dress and blue hair." />
 
 Isari Plainleaf was born and raised in Northpoint, a small port and the only town on an unnamed Island to the west, its only resounding feature being its proximity to the Adamantine Reef. Ironically, despite its name, the town was actually situated at the south end of the island. Her mother was a warm Halfling woman, Calda Plainleaf, Northpoint's resident and well respected seamstress, and her father was unknown - she never felt any need to go out of her way to learn much about him, only that he was a good man, surrounded as she was by years of trinkets and memories her mother had brought with her from her youth when she'd settled in Northpoint, as well as the small but energetic environment of the town. 
 
@@ -48,18 +62,20 @@ Once she'd finished, Calda took Isari's hands gently in hers, and told her; "I r
 
 And so our future pirate captain did just that, giving her tearful goodbyes before hitching a ride on a sailor's ship a week later, headed towards Portmagne Island, where she'd begin to make herself a name within sailing communities and pirates both as a hitchhiker, and where, after a year, would find herself in possession of an invite to a certain Pirate Lord's banquet. 
 
-## A New Friend-ship
+### A New Friend-ship
 
-  <img align="right" width="300" src="images/earlyisari-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing." />
+<img align="right" width="300" src="images/earlyisari-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing." />
 
-## A Jaunt in the Hell's
+### A Jaunt in the Hells
 
-  <img align="left" width="300" src="images/thedutiful-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing but a bit crazy this time." />
+<img align="left" width="300" src="images/thedutiful-haru.png" alt="Drawing of a feminine person with blue skin wearing a mis-match of pirate styled clothing but a bit crazy this time." />
 
-## Insecurity
+### Insecurity
 
-  <img align="right" width="300" src="images/genie-haru.png" alt="Drawing of a feminine person with blue skin wearing genie inspired clothing." />
+<img align="right" width="300" src="images/genie-haru.png" alt="Drawing of a feminine person with blue skin wearing genie inspired clothing." />
 
-## Current
+After an altercation with Chase's astral self Syzygy, who implied Isari was endangering the party with her connection to Zariel, Isari ended her relationship with Chase. The two remained friends and continued to operate as co-captains.
 
-  <img align="left" width="300" src="images/isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
+### Current
+
+<img align="left" width="300" src="images/isari-kaiotisk.png" alt="Drawing of a feminine person with blue skin wearing Romani-inspired clothing and a black tricorner pirate hat." />
