@@ -1,6 +1,6 @@
 # Chases the Stars Across the Tumultuous Seas
 
-**Chases the Stars Across the Tumultuous Seas** is a co-captain of the [Friend Ship III](../fleet/friend-ship.md). They share a body with their astral self Syzygy.
+**Chases the Stars Across the Tumultuous Seas** is a co-captain of the [Friend Ship III](../fleet/friend-ship.md). They share a body with their astral self Syzygy. They originally hail from the [Steadfast Trees](../../steadfast-trees/steadfast-trees.md) but now consider their ship to be their home.
 
 <figure>
   <img src="images/chases-the-stars-mario-panighetti.jpg" alt="Drawing of a feline person with ocelot patterns on tawny fur and ears pointed upward, wearing a gray Wing Chun-style gi, a sash made from a cloak of displacement, and hand and foot wraps, holding a yklwa. They are staring sternly at the viewer. A blurry jungle scene forms the background." />
@@ -28,7 +28,7 @@
 
 ## Relationships
 
-### [Steadfast Trees](../../steadfast-trees/steadfast-trees.md)
+### Steadfast Trees
 
 - Gnarled Root Anchoring the Steadfast Trees Against the Churning Waves: tribe leader and shaman
 - Reeds in the Shallows, Sheltered by the Steadfast Trees: birth mother
