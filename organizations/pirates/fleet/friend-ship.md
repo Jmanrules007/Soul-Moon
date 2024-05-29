@@ -15,4 +15,10 @@ The **Friend Ship III** is an independent pirate ship currently allied with the 
 
 ### Former
 
+- [Ammit](../members/ammit.md)
+- [Dread](../members/dread.md)
+- [Kree'madyl](../members/kree-madyl.md)
 - [Odalis](../members/odalis.md)
+- [Solandyr](../members/solandyr.md)
+- [Walter Pilshimac](../members/walter-pilshimac.md)
+
