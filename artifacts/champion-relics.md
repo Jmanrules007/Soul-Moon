@@ -4,7 +4,7 @@ The **Champion Relics** are a series of powerful magical artifacts imbued with t
 
 ## Common Properties
 
-The Champion Relics all include the following shared properties. A creature Attuned to a Champion Relics can access these properties in addition to a Relic's other properties.
+The Champion Relics all include the following shared properties. A creature Attuned to a Champion Relic can access these properties in addition to a Relic's other properties.
 
 _**Heroic Knowledge.**_ This relic retains all living knowledge of the hero who inhabits it, and can impart you with knowledge of that hero's adventures in ancient times. Once per day, if you spend 10 minutes touching the relic and mentally communing with the soul within, you can cast the _commune_ spell without any material components, targeting the hero as the divine proxy.
 
