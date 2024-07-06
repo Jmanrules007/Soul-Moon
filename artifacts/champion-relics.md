@@ -24,7 +24,7 @@ _Wondrous item, artifact (requires Attunement by a wizard), neutral good_
 |:-----:|:-----:|:-----:|
 |20 (+5)|10 (+0)|10 (+0)|
 
-While using the _dworb_ as a focus, your spells gain a +1 to their attack rolls and save DCs; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The _dworb_ has the following additional properties.
+While using the _dworb_ as a focus, your spells gain a +1 to their attack rolls and saving throw DCs; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The _dworb_ has the following additional properties.
 
 _**Shared Arcana.**_ The _dworb_ grants you the benefits of Galnar's extensive research into the arcane. The Relic has 5 charges that can be spent on some of its properties, and it regains 1d6 charges at dawn.
 
