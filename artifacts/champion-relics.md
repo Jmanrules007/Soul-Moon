@@ -14,6 +14,26 @@ _**Sentience.**_ This relic is a sentient artifact; its alignment and ability sc
 
 Champion Relics are listed alphabetically.
 
+## Dworb
+
+#### Attributes
+
+_Wondrous item, artifact (requires Attunement by a wizard), neutral good_
+
+|  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|
+|20 (+5)|10 (+0)|10 (+0)|
+
+While using the _dworb_ as a focus, your spells gain a +1 to their attack rolls and save DCs; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The _dworb_ has the following additional properties.
+
+_**Shared Arcana.**_ The _dworb_ grants you the benefits of Galnar's extensive research into the arcane. The Relic has 5 charges that can be spent on some of its properties, and it regains 1d6 charges at dawn.
+
+_**Transmuted Spell.**_ Galnar's studies of sorcerous metamagic taught him how to convert elemental energies through quick precise adjustments while casting a spell. While using the _dworb_ as a focus, when you cast a spell that deals a type of damage from the following list, you can expend 1 charge to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
+
+_**Cross-Class Studies.**_ Galnar learned how to reproduce divine, primal, and chaos magic using sophisticated arcane techniques. While using the _dworb_ as a focus, you can expend 1 charge to cast one of the following spells using the _Dworb_ as if it were a wizard spell you knew: _antilife shell, bless, chaos bolt, enhance ability, faerie fire, insect plague, mass healing word, mass cure wounds,_ and _wind wall_. You must expend a spell slot of the appropriate level to cast a spell in this manner.
+
+_**Personality.**_ The _dworb_ contains the soul of Galnar Thunderfist, a Hero of great mental skill and magical ability who agreed to grant his life knowledge to the relic so that he might help guide some future arcanist protecting the Soul Moons from fiendish invasion. Galnar was a reclusive mage in life, stubborn in his ways and certain to the superiority of his knowledge, but he will share his arcane discoveries through the _dworb_ if in the hands of a mage who respects his accomplishments.
+
 ## Johna
 
 #### Attributes
