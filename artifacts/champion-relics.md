@@ -38,7 +38,7 @@ _**Personality.**_ The _dworb_ contains the soul of Galnar Thunderfist, a Hero o
 
 #### Attributes
 
-_Weapon (greatsword), artifact (requires Attunement), lawful good_
+_Weapon (greatsword), artifact (requires Attunement by a creature Proficient with greatswords), lawful good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -50,7 +50,7 @@ _**Shared Divine Light.**_ Johna's spirit shares her divine power with the great
 
 _**Divine Smite**_. When you hit a creature with _Johna_, you can expend 1-5 of her charges to deal Radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for 1 charge, plus 1d8 for each additional charge spent. The damage increases by 1d8 if the target is an Undead or a Fiend.
 
-_**Personality.**_ This relic contains the soul of Johna Cildonn, a powerful Hero who opted to imbue her sword with her essence to help guide future adventurers protecting the Soul Moon from fiendish threats. In life, Johna was a devoted paladin who was driven by her faith and channeled holy power to strike out against the Incursion of the Hells. So compelled was she to carry out good deeds in the name of her faith, her fellow Heroes sometimes described her as a "goody two-shoes".
+_**Personality.**_ This relic contains the soul of Johna Cildonn, a powerful Hero who opted to imbue her sword with her essence to help guide future adventurers protecting the Soul Moon from fiendish threats. Unlike most of the Champion Relics, this sword retained Johna's name and identity, and none saw fit to give it a unique moniker. In life, Johna was a devoted paladin who was driven by her faith and channeled holy power to strike out against the Incursion of the Hells. So compelled was she to carry out good deeds in the name of her faith, her fellow Heroes sometimes described her as a "goody two-shoes".
 
 ## Silent Singer
 
