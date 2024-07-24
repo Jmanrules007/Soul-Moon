@@ -52,7 +52,7 @@ _**Divine Smite**_. When you hit a creature with _Johna_, you can expend 1-5 of 
 
 _**Personality.**_ This relic contains the soul of Johna Cildonn, a powerful Hero who opted to imbue her sword with her essence to help guide future adventurers protecting the Soul Moon from fiendish threats. Unlike most of the Champion Relics, this sword retained Johna's name and identity, and none saw fit to give it a unique moniker. In life, Johna was a devoted paladin who was driven by her faith and channeled holy power to strike out against the Incursion of the Hells. So compelled was she to carry out good deeds in the name of her faith, her fellow Heroes sometimes described her as a "goody two-shoes".
 
-## Silent Singer
+## [Silent Singer](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/silent-singer.md)
 
 #### Attributes
 
@@ -77,7 +77,7 @@ _**Personality.**_ The _Silent Singer_ contains the soul of Ganu Frightfrightene
 
 A steel rapier, crafted with brass and onyx, once wielded by the roguish member of the ancient party of Heroes who fought against an incursion of the Hells. The intricacies of this blade befits well the nature of this Hero, a goliath by the name of Ganu.
 
-## Wraps of Angelo
+## [Wraps of Angelo](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/wraps-of-angelo.md)
 
 <figure>
   <img src="wraps-of-angelo-haru.png" alt="Drawing of a forearm bound in orange-brown wraps covering everything but the fingers." />
