@@ -14,7 +14,7 @@ _**Sentience.**_ This relic is a sentient artifact; its alignment and ability sc
 
 Champion Relics are listed alphabetically.
 
-## Dworb
+### Dworb
 
 #### Attributes
 
@@ -34,7 +34,15 @@ _**Cross-Class Studies.**_ Galnar learned how to reproduce divine, primal, and c
 
 _**Personality.**_ The _dworb_ contains the soul of Galnar Thunderfist, a Hero of great mental skill and magical ability who agreed to grant his life knowledge to the relic so that he might help guide some future arcanist protecting the Soul Moons from fiendish invasion. Galnar was a reclusive mage in life, stubborn in his ways and certain to the superiority of his knowledge, but he will share his arcane discoveries through the _dworb_ if in the hands of a mage who respects his accomplishments.
 
-## Johna
+#### Description
+
+Unknown.
+
+#### Current Status
+
+[Serys Faerryn](../organizations/pirates/members/serys-faerryn.md) received the _Dworb_ from her brother and currently wields its power.
+
+### Johna
 
 #### Attributes
 
@@ -52,7 +60,15 @@ _**Divine Smite**_. When you hit a creature with _Johna_, you can expend 1-5 of 
 
 _**Personality.**_ This relic contains the soul of Johna Cildonn, a powerful Hero who opted to imbue her sword with her essence to help guide future adventurers protecting the Soul Moon from fiendish threats. Unlike most of the Champion Relics, this sword retained Johna's name and identity, and none saw fit to give it a unique moniker. In life, Johna was a devoted paladin who was driven by her faith and channeled holy power to strike out against the Incursion of the Hells. So compelled was she to carry out good deeds in the name of her faith, her fellow Heroes sometimes described her as a "goody two-shoes".
 
-## [Silent Singer](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/silent-singer.md)
+#### Description
+
+Unknown.
+
+#### Current Status
+
+[Kalden Nöel](../organizations/pirates/members/kalden-noel.md) currently wields _Johna_.
+
+### [Silent Singer](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/silent-singer.md)
 
 #### Attributes
 
@@ -77,7 +93,11 @@ _**Personality.**_ The _Silent Singer_ contains the soul of Ganu Frightfrightene
 
 A steel rapier, crafted with brass and onyx, once wielded by the roguish member of the ancient party of Heroes who fought against an incursion of the Hells. The intricacies of this blade befits well the nature of this Hero, a goliath by the name of Ganu.
 
-## [Wraps of Angelo](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/wraps-of-angelo.md)
+#### Current Status
+
+[Isari Plainleaf](../organizations/pirates/members/isari-plainleaf.md) is the latest wielder of the _Silent Singer_.
+
+### [Wraps of Angelo](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/wraps-of-angelo.md)
 
 <figure>
   <img src="wraps-of-angelo-haru.png" alt="Drawing of a forearm bound in orange-brown wraps covering everything but the fingers." />
@@ -109,3 +129,39 @@ _**Personality.**_ The wraps contain the soul of Angelo, a great hero who volunt
 These sienna hand wraps were once worn by a powerful tortle monk named Angelo, who fought alongside the greatest Heroes of the Soul Moon to hold back an invasion of devils during the Incursion of the Hells. When this battle was won, the warrior imparted his consciousness into the wraps, to act as counsel should a new champion be called into action to stop a future catastrophe.
 
 The wraps appear simple and utilitarian, but they faintly crackle with psionic energy that sharply hones the wielder's mind. This energy also binds the two pieces of cloth together, such that they cannot be separated as long as their magic is intact.
+
+#### Current Status
+
+The _Wraps of Angelo_ are currently wielded by [Chases the Stars Across the Tumultuous Seas](../organizations/pirates/members/chases-the-stars-across-the-tumultuous-seas.md).
+
+## Unknown Relics
+
+The specifics of the events that led to the creation of the Champion Relics have been lost to history. Even the souls of the heroes that inhabit these artifacts have spent so many centuries in isolation from the world that their memories around these events can sometimes be unreliable. As a result, some relics are only known through vague accounts or secondhand knowledge. Such relics are listed here with whatever details have been recorded, until they can be found and more details can be clarified.
+
+### Breastplate
+
+#### Attributes
+
+_Armor (Breastplate), artifact (requires Attunement by a creature with Superiority Dice), ? good_
+
+|  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|
+|?|?|?|
+
+While wearing this armor, you gain a +1 bonus to AC; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The armor has the following additional properties.
+
+_**Shared Superiority.**_ The armor grants you a portion of the original hero's strength. The armor has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Superiority Dice, and you can spend them on any Maneuvers you already have from another source. A Superiority Die expended by an armor charge is a d8. The armor regains 1d6 charges at dawn, but you can also expend a Superiority Die in place of a charge.
+
+_**Arrogance Unparalleled.**_ As a Bonus Action, you can expend 1 charge to roll a Superiority Die and issue a belligerent challenge to one creature you can see or that can hear you. The target makes a Wisdom Saving Throw against your Maneuver Save DC, subtracting the Superiority Die from their roll. On a failed save, the target and you both have Disadvantage on attack rolls against creatures other then each another, and the target takes 2d6 Psychic damage if they move away from you.
+
+_**Superior Maneuvers.**_ When you expend a Superiority Die, you gain a number of Temporary Hit Points equal to the roll, and you choose one damage type that you gain Resistance to until you lose these Temporary Hit Points.
+
+_**Personality.**_ Unknown.
+
+#### Description
+
+Unknown.
+
+#### Current Status
+
+Unknown.
