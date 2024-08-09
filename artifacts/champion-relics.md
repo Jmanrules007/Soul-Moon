@@ -80,7 +80,7 @@ _Weapon (Rapier), Artifact (requires Attunement by a Bard), chaotic good_
 
 You gain a +1 to attack and damage rolls made with this magic weapon; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The weapon has the following additional properties.
 
-_**Shared Inspiration.**_ The _Silent Singer_ grants you a portion of Ganu's power and creativity. The rapier has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Bardic Inspiration, and you can spend them on any Bardic Inspiration features you already have from another source. A Bardic Inspiration Die expended by a rapier charge is a d8. The rapier regains 1d6 charges at dawn, but you can also expend uses of Bardic Inspiration in place of charges, which also uses your own Bardic Inspiration Die size.
+_**Shared Inspiration.**_ The _Silent Singer_ grants you a portion of Ganu's power and creativity. The rapier has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Bardic Inspiration, and you can spend them on any Bardic Inspiration features you already have from another source. A Bardic Inspiration Die expended by a rapier charge is a d8. The rapier regains 1d6 charges at dawn, but you can also expend uses of Bardic Inspiration in place of charges, which uses your own Bardic Inspiration Die size.
 
 _**Song of the Blade.**_ Attacks made with the _Silent Singer_ use your Charisma modifier for the attack and damage rolls instead of Strength or Dexterity. Additionally, once on each of your turns when you hit a target with the _Silent Singer_, you can expend up to 5 charges, roll a number of Bardic Inspiration Die equal to the number of charges spent, and choose one of the following secondary effects:
 
@@ -116,7 +116,7 @@ You gain a +1 to attack and damage rolls made using your Unarmed Strikes while w
 
 _**Psionic Entanglement.**_ The _Wraps of Angelo_ cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
-_**Shared Focus.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Focus Points, and you can spend and combine them with any Focus Points you already have from another source. When the wrap's charges are expended and refer to Martial Arts Dice, the Die is a d8. The wraps regain 1d6 charges at dawn, but you can also use your Focus Points in place of charges, which also uses your own Martial Arts Die size.
+_**Shared Focus.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Focus Points, and you can spend and combine them with any Focus Points you already have from another source. When the wrap's charges are expended and refer to Martial Arts Dice, the Die is a d8. The wraps regain 1d6 charges at dawn, but you can also use your Focus Points in place of charges, which uses your own Martial Arts Die size.
 
 _**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an Unarmed Strike, you Grapple a creature, or a creature fails a check to escape your Grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal Psychic damage to the target of your Grapple or attack equal to the number rolled.
 
@@ -150,7 +150,7 @@ _Armor (Breastplate), Artifact (requires Attunement by a creature with at least 
 
 While wearing this armor, you gain a +1 bonus to AC; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The armor has the following additional properties.
 
-_**Shared Superiority.**_ The armor grants you a portion of the original hero's strength. The armor has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Superiority Dice, and you can spend them on any Maneuvers you already have from another source. A Superiority Die expended by an armor charge is a d8. The armor regains 1d6 charges at dawn, but you can also expend a Superiority Die in place of a charge, which also uses your own Superiority Die size.
+_**Shared Superiority.**_ The armor grants you a portion of the original hero's strength. The armor has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Superiority Dice, and you can spend them on any Maneuvers you already have from another source. A Superiority Die expended by an armor charge is a d8. The armor regains 1d6 charges at dawn, but you can also expend a Superiority Die in place of a charge, which uses your own Superiority Die size.
 
 _**Arrogance Unparalleled.**_ As a Bonus Action, you can expend 1 charge to roll a Superiority Die and issue a belligerent challenge to one creature you can see or that can hear you. The target makes a Wisdom Saving Throw against your Maneuver Save DC, subtracting the Superiority Die from their roll. On a failed save, the target and you both have Disadvantage on attack rolls against creatures other then each another, and the target takes 2d6 Psychic damage if they move away from you.
 
