@@ -54,7 +54,7 @@ _Weapon (Greatsword), Artifact (requires Attunement by a creature Proficient wit
 
 You gain a +1 to attack and damage rolls made with this magic weapon; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The weapon has the following additional properties.
 
-_**Shared Divine Light.**_ Johna's spirit shares her divine power with the greatsword's wielder. The greatsword has 5 charges that can be spent on some of the weapon's properties. These charges can also be used for Divine Smite at a cost of 1 charge per spell slot level. The sword regains 1d6 charges at dawn, but you can also expend spell slots in place of charges, with each spell slot worth a number of charges equal to its level.
+_**Shared Divine Light.**_ Johna's spirit shares her divine power with the greatsword's wielder. The greatsword has 5 charges that can be spent on some of the weapon's properties. These charges can also be used for a Paladin's Divine Smite at a cost of 1 charge per spell slot level. The sword regains 1d6 charges at dawn, but you can also expend spell slots in place of charges, with each spell slot worth a number of charges equal to its level.
 
 _**Divine Smite**_. When you hit a creature with _Johna_, you can expend 1-5 of her charges to deal Radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for 1 charge, plus 1d8 for each additional charge spent. The damage increases by 1d8 if the target is an Undead or a Fiend.
 
