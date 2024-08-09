@@ -18,19 +18,19 @@ Champion Relics are listed alphabetically.
 
 #### Attributes
 
-_Wondrous item, artifact (requires Attunement by a wizard), neutral good_
+_Wondrous Item, Artifact (requires Attunement by a Wizard), neutral good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
 |20 (+5)|10 (+0)|10 (+0)|
 
-While using the _dworb_ as a focus, your spells gain a +1 to their attack rolls and saving throw DCs; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The _dworb_ has the following additional properties.
+While using the _dworb_ as a focus, your spells gain a +1 to their attack rolls and Saving Throw DCs; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The _dworb_ has the following additional properties.
 
 _**Shared Arcana.**_ The _dworb_ grants you the benefits of Galnar's extensive research into the arcane. The Relic has 5 charges that can be spent on some of its properties, and it regains 1d6 charges at dawn.
 
-_**Transmuted Spell.**_ Galnar's studies of sorcerous metamagic taught him how to convert elemental energies through quick precise adjustments while casting a spell. While using the _dworb_ as a focus, when you cast a spell that deals a type of damage from the following list, you can expend 1 charge to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
+_**Transmuted Spell.**_ Galnar's studies of sorcerous metamagic taught him how to convert elemental energies through quick precise adjustments while casting a spell. While using the _dworb_ as a focus, when you cast a spell that deals a type of damage from the following list, you can expend 1 charge to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
 
-_**Cross-Class Studies.**_ Galnar learned how to reproduce divine, primal, and chaos magic using sophisticated arcane techniques. While using the _dworb_ as a focus, you can expend 1 charge to cast one of the following spells as if it were a wizard spell you knew: _antilife shell, bless, chaos bolt, enhance ability, faerie fire, insect plague, mass healing word, mass cure wounds,_ and _wind wall_. You must expend a spell slot of the appropriate level to cast a spell in this manner.
+_**Cross-Class Studies.**_ Galnar learned how to reproduce divine, primal, and chaos magic using sophisticated arcane techniques. While using the _dworb_ as a focus, you can expend 1 charge and a spell slot of the appropriate level to cast one of the following spells as if it were a wizard spell you knew: _antilife shell, bless, chaos bolt, enhance ability, faerie fire, insect plague, mass healing word, mass cure wounds,_ and _wind wall_.
 
 _**Personality.**_ The _dworb_ contains the soul of Galnar Thunderfist, a Hero of great mental skill and magical ability who agreed to grant his life knowledge to the relic so that he might help guide some future arcanist protecting the Soul Moons from fiendish invasion. Galnar was a reclusive mage in life, stubborn in his ways and certain to the superiority of his knowledge, but he will share his arcane discoveries through the _dworb_ if in the hands of a mage who respects his accomplishments.
 
@@ -46,7 +46,7 @@ Unknown.
 
 #### Attributes
 
-_Weapon (greatsword), artifact (requires Attunement by a creature Proficient with greatswords), lawful good_
+_Weapon (Greatsword), Artifact (requires Attunement by a creature Proficient with greatswords), lawful good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -54,7 +54,7 @@ _Weapon (greatsword), artifact (requires Attunement by a creature Proficient wit
 
 You gain a +1 to attack and damage rolls made with this magic weapon; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The weapon has the following additional properties.
 
-_**Shared Divine Light.**_ Johna's spirit shares her divine power with the greatsword's wielder. The greatsword has 5 charges that can be spent on some of the weapon's properties, and it regains 1d6 charges at dawn.
+_**Shared Divine Light.**_ Johna's spirit shares her divine power with the greatsword's wielder. The greatsword has 5 charges that can be spent on some of the weapon's properties. These charges can also be used for Divine Smite at a cost of 1 charge per spell slot level. The sword regains 1d6 charges at dawn, but you can also expend spell slots in place of charges, with each spell slot worth a number of charges equal to its level.
 
 _**Divine Smite**_. When you hit a creature with _Johna_, you can expend 1-5 of her charges to deal Radiant damage to the target, in addition to the weapon's damage. The extra damage is 2d8 for 1 charge, plus 1d8 for each additional charge spent. The damage increases by 1d8 if the target is an Undead or a Fiend.
 
@@ -72,7 +72,7 @@ Unknown.
 
 #### Attributes
 
-_Weapon (rapier), artifact (requires Attunement by a bard), chaotic good_
+_Weapon (Rapier), Artifact (requires Attunement by a Bard), chaotic good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -80,12 +80,12 @@ _Weapon (rapier), artifact (requires Attunement by a bard), chaotic good_
 
 You gain a +1 to attack and damage rolls made with this magic weapon; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The weapon has the following additional properties.
 
-_**Shared Inspiration.**_ The _Silent Singer_ grants you a portion of Ganu's power and creativity. The rapier has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Bardic Inspiration, and you can spend and combine them with any uses of Bardic Inspiration you already have from another source. The rapier regains 1d6 charges at dawn, but you can also expend uses of Bardic Inspiration in place of charges.
+_**Shared Inspiration.**_ The _Silent Singer_ grants you a portion of Ganu's power and creativity. The rapier has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Bardic Inspiration, and you can spend them on any Bardic Inspiration features you already have from another source. A Bardic Inspiration Die expended by a rapier charge is a d8. The rapier regains 1d6 charges at dawn, but you can also expend uses of Bardic Inspiration in place of charges, which also uses your own Bardic Inspiration Die size.
 
-_**Song of the Blade.**_ Attacks made with the _Silent Singer_ use your Charisma modifier for the attack and damage rolls instead of Strength or Dexterity. Additionally, once on each of your turns when you hit a target with the _Silent Singer_, you can expend up to 5 charges, roll a number of Bardic Inspiration die equal to the number of charges spent, and choose one of the following secondary effects:
+_**Song of the Blade.**_ Attacks made with the _Silent Singer_ use your Charisma modifier for the attack and damage rolls instead of Strength or Dexterity. Additionally, once on each of your turns when you hit a target with the _Silent Singer_, you can expend up to 5 charges, roll a number of Bardic Inspiration Die equal to the number of charges spent, and choose one of the following secondary effects:
 
-- **Sneak Attack.** You deal additional weapon damage equal to the roll.
-- **Mocking Attack.** The target subtracts the number rolled from the next saving throw they make before the start of your next turn.
+- **Sneak Attack.** You deal additional weapon damage equal to the Bardic Inspiration roll total.
+- **Mocking Attack.** The target subtracts the Bardic Inspiration total number rolled from the next Saving Throw they make before the start of your next turn.
 
 _**Personality.**_ The _Silent Singer_ contains the soul of Ganu Frightfrightener, a great Hero who voluntarily embodied this weapon to pass on his wisdom to adventurers protecting the Soul Moon. Ganu was a creative soul who was forced by the Incursion of the Hells to relinquish his love of music and art, instead being keyholed into the more "useful" role of a rogue, but his desire to contribute to the act of artistic expression draws the blade to connect with creative individuals.
 
@@ -106,7 +106,7 @@ A steel rapier, crafted with brass and onyx, once wielded by the roguish member 
 
 #### Attributes
 
-_Wondrous item, artifact (requires Attunement by a monk), chaotic good_
+_Wondrous Item, Artifact (requires Attunement by a Monk), chaotic good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -116,9 +116,9 @@ You gain a +1 to attack and damage rolls made using your Unarmed Strikes while w
 
 _**Psionic Entanglement.**_ The _Wraps of Angelo_ cannot be moved more than 10 feet apart from each other and are considered to be a single magic item.
 
-_**Shared Focus.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Focus Points, and you can spend and combine them with any Focus Points you already have from another source. The wraps regain 1d6 charges at dawn, but you can also use your Focus Points in place of charges.
+_**Shared Focus.**_ The _Wraps of Angelo_ grant you a portion of Angelo's power and mental discipline. The wraps have 5 charges that can be spent on some of the wrap's properties. These charges can also be used as Focus Points, and you can spend and combine them with any Focus Points you already have from another source. When the wrap's charges are expended and refer to Martial Arts Dice, the Die is a d8. The wraps regain 1d6 charges at dawn, but you can also use your Focus Points in place of charges, which also uses your own Martial Arts Die size.
 
-_**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an Unarmed Strike, you Grapple a creature, or a creature fails a check to escape your Grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal psychic damage to the target of your Grapple or attack equal to the number rolled.
+_**Infused Strikes.**_ You can enhance your attacks with psionic energy. Each time you hit a creature with an Unarmed Strike, you Grapple a creature, or a creature fails a check to escape your Grapple, you can choose to expend up to 3 charges and roll that number of Martial Arts dice. You deal Psychic damage to the target of your Grapple or attack equal to the number rolled.
 
 _**Reactive Healing.**_ You gain the ability to redirect the power of strikes and magical harm into healing energy. As a Reaction when you take damage from a weapon or spell, you can expend up to 5 charges and roll that number of Martial Arts dice. You regain a number of Hit Points equal to the number rolled plus your Wisdom modifier.
 
@@ -142,7 +142,7 @@ The specifics of the events that led to the creation of the Champion Relics have
 
 #### Attributes
 
-_Armor (Breastplate), artifact (requires Attunement by a creature with Superiority Dice), ? good_
+_Armor (Breastplate), Artifact (requires Attunement by a creature with at least one Superiority Die), ? good_
 
 |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|
@@ -150,7 +150,7 @@ _Armor (Breastplate), artifact (requires Attunement by a creature with Superiori
 
 While wearing this armor, you gain a +1 bonus to AC; this bonus increases to +2 when you reach 9th level, and +3 when you reach 16th level. The armor has the following additional properties.
 
-_**Shared Superiority.**_ The armor grants you a portion of the original hero's strength. The armor has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Superiority Dice, and you can spend them on any Maneuvers you already have from another source. A Superiority Die expended by an armor charge is a d8. The armor regains 1d6 charges at dawn, but you can also expend a Superiority Die in place of a charge.
+_**Shared Superiority.**_ The armor grants you a portion of the original hero's strength. The armor has 5 charges that can be spent on some of the weapon's properties. These charges can also be used as Superiority Dice, and you can spend them on any Maneuvers you already have from another source. A Superiority Die expended by an armor charge is a d8. The armor regains 1d6 charges at dawn, but you can also expend a Superiority Die in place of a charge, which also uses your own Superiority Die size.
 
 _**Arrogance Unparalleled.**_ As a Bonus Action, you can expend 1 charge to roll a Superiority Die and issue a belligerent challenge to one creature you can see or that can hear you. The target makes a Wisdom Saving Throw against your Maneuver Save DC, subtracting the Superiority Die from their roll. On a failed save, the target and you both have Disadvantage on attack rolls against creatures other then each another, and the target takes 2d6 Psychic damage if they move away from you.
 
