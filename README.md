@@ -1,6 +1,6 @@
 # The Soul Moon
 
-The Soul Moon is a 5e homebrew setting featuring a flooded world beset upon by devils.
+The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a flooded world beset upon by devils.
 
 ## Resources
 
