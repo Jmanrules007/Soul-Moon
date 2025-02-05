@@ -4,6 +4,10 @@ The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a f
 
 ## Resources
 
+## Regions
+
+- [Nunyabithnus](regions/nunyabithnus.md)
+
 ### Organizations
 
 - [The Pirates](organizations/pirates/pirates.md)
