@@ -1,6 +1,6 @@
 # The Soul Moon
 
-The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a flooded world beset upon by devils.
+The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a flooded world and the heroes who protect it from fiendish incursion.
 
 ## Resources
 
@@ -15,7 +15,7 @@ The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a f
 
 ## Credits
 
-### Party
+### Friend Ship III
 
 - Jon: DM
 - Blake: [Veil Between Planes](organizations/pirates/members/veil-between-planes.md)
@@ -24,6 +24,8 @@ The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a f
 - Jane: [Serys Faerryn](organizations/pirates/members/serys-faerryn.md)
 - [Mario Panighetti](https://mario.panighetti.net): [Chases the Stars Across the Tumultuous Seas](organizations/pirates/members/chases-the-stars-across-the-tumultuous-seas.md)
 - Toaster: [Relkul Nerian](organizations/pirates/members/relkul-nerian.md)
+
+[Session notes](https://github.com/Jmanrules007/Soul-Moon/wiki/Friend-Ship-III)
 
 ## License
 
