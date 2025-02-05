@@ -1,6 +1,6 @@
 # The Friend Ship III
 
-The **Friend Ship III** is an independent pirate ship currently allied with the [Pirates](../pirates.md). The crew acts as a communal Pirate Lord.
+The **Friend Ship III** is an independent pirate ship currently allied with the [Pirates](../pirates.md). Due to their repeated successes in assisting the Pirates in combatting the Navy and the fiendish incursion they prompted, the crew has earned a place of stature within the organization, and can act as a communal Pirate Lord for tie-breaking votes.
 
 ## Crew
 
