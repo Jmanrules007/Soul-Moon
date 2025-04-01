@@ -13,7 +13,11 @@ The Soul Moon is a Dungeons & Dragons 5th Edition setting featuring a flooded wo
 - [The Pirates](organizations/pirates/pirates.md)
 - [Steadfast Trees](organizations/steadfast-trees/steadfast-trees.md)
 
-### Treasures of the Soul Moon
+### Feats
+
+- [Improved Claws](feats/improved-claws.md)
+
+### Treasures
 
 #### Magic Items
 
