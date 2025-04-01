@@ -1,6 +1,6 @@
 # The Soul Moon
 
-The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a flooded world and the heroes who protect it from fiendish incursion.
+The Soul Moon is a Dungeons & Dragons 5th Edition setting featuring a flooded world and the heroes who protect it from fiendish incursion.
 
 ## Resources
 
@@ -16,6 +16,10 @@ The Soul Moon is a Dungeons & Dragons 5th Edition homebrew setting featuring a f
 ### Artifacts
 
 - [Champion Relics](artifacts/champion-relics.md)
+
+### Technology
+
+- [Energy Canisters](technology/energy-canisters.md)
 
 ## Credits
 
