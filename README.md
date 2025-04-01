@@ -18,6 +18,7 @@ The Soul Moon is a Dungeons & Dragons 5th Edition setting featuring a flooded wo
 #### Magic Items
 
 - [Champion Relics](treasures/magic-items/champion-relics.md)
+- [Stone of Endless Feline Pursuit](treasures/magic-items/stone-of-endless-feline-pursuit.md)
 
 #### Technology
 
