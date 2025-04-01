@@ -13,13 +13,15 @@ The Soul Moon is a Dungeons & Dragons 5th Edition setting featuring a flooded wo
 - [The Pirates](organizations/pirates/pirates.md)
 - [Steadfast Trees](organizations/steadfast-trees/steadfast-trees.md)
 
-### Artifacts
+### Treasures of the Soul Moon
 
-- [Champion Relics](artifacts/champion-relics.md)
+#### Magic Items
 
-### Technology
+- [Champion Relics](treasures/magic-items/champion-relics.md)
 
-- [Energy Canisters](technology/energy-canisters.md)
+#### Technology
+
+- [Energy Canisters](treasures/technology/energy-canisters.md)
 
 ## Credits
 
